@@ -8,7 +8,7 @@ Implement new features
 
 # Roadmap
 
-[] Implement Slash commands
-[] Reduce Writre Weight
-[] Bubbins
-[] Look at DSharpPlus.Labs
+- [ ] Implement Slash commands
+- [ ] Reduce Writre Weight
+- [ ] Bubbins
+- [ ] Look at DSharpPlus.Labs
