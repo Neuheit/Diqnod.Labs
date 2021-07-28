@@ -4,3 +4,11 @@ An experimental fork of Disqord that implements the newest discord features for 
 
 TODO
 Implement new features
+
+
+# Roadmap
+
+[] Implement Slash commands
+[] Reduce Writre Weight
+[] Bubbins
+[] Look at DSharpPlus.Labs
